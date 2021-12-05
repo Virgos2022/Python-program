@@ -13,4 +13,4 @@ print("Im in class 10")
 ==: if eual to
 =!: not equalto
 
-In the above case we are assigning the value of x as 94 with the help of assignment operator
+In the above case we are assigning the value of x as 94 with the help of assignment operatornjnknlnlnlnlknlkklnklnlknlklkn
