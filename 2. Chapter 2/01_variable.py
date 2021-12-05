@@ -11,11 +11,10 @@ print(a)
 print(b)
 print(c)
 print(d)
-
-# Printing the type of variables
-print(type(a))
+/printing the type of variables/
+print(type(a)) 
 print(type(b))
 print(type(c))
 print(type(d))
 
-9838176164//Siddhu Bhaiya
+print("My name is Manyata")
